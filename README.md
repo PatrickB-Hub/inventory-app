@@ -8,3 +8,9 @@ An app to keep track of your inventory of items.
 * Create `.env` with your values (see `.env.sample` file)
 * Run the postgres db / pgadmin4: `docker-compose up`
 * Migrate the database: `npm run migrate`
+
+# To Do
+
+* [] Seed the database (states and countries..)
+* [] Implement API interfaces
+* [] Create Frontend
